@@ -1,25 +1,28 @@
 # Hello World! 👋
+Sou um desenvolvedor Delphi apaixonado pela criação de soluções inovadoras e eficientes há mais de dez anos. Tenho uma ampla experiência no desenvolvimento de sistemas comerciais, incluindo PDVs, sistemas de controle de estoque para obras, help desk e soluções internas personalizadas para atender às necessidades específicas das organizações.
 
-I'm a Delphi developer passionate about creating innovative and efficient solutions for over ten years. I have extensive experience in developing commercial systems, including POS, inventory control systems for construction sites, help desk and in-house solutions customized to meet the specific needs of organizations.
+Com uma formação acadêmica em Contabilidade e atualmente cursando Análise e Desenvolvimento de Sistemas (ADS), tenho a capacidade única de combinar minha experiência técnica com uma compreensão aprofundada dos aspectos financeiros e comerciais dos projetos em que trabalho. Essa combinação de conhecimentos me permite desenvolver soluções que atendam tanto aos requisitos técnicos quanto aos objetivos de negócios.
 
-With an academic background in Accounting and currently studying Systems Analysis and Development, I have the unique ability to combine my technical expertise with an in-depth understanding of the financial and business aspects of the projects I work on. This combination of expertise allows me to develop solutions that meet both technical requirements and business objectives.
+Tenho um histórico comprovado de entrega de projetos de alta qualidade, dentro do prazo e dentro do orçamento. Sou altamente versátil e adaptável, capaz de me envolver em todas as fases do ciclo de vida do desenvolvimento de software, desde a análise de requisitos até o suporte pós-implementação.
 
-I have a proven track record of delivering high quality projects, on time and within budget. I am highly versatile and adaptable, able to be involved in all phases of the software development lifecycle, from requirements analysis to post-implementation support.
-
-Also, I'm always looking to improve my skills and keep up to date with trends and technologies in software development. I am passionate about continuous learning and take advantage of training opportunities, such as courses and certifications, to enhance my expertise and deliver even better results to my clients and employers.
-
-If you are looking for an experienced, committed and passionate Delphi developer with an eye for efficient and customized solutions, then contact me. I am always open to new challenges and ready to contribute to the success of your team and organization.
+Além disso, estou sempre em busca de aprimorar minhas habilidades e me manter atualizado com as últimas tendências e tecnologias em desenvolvimento de software. Sou um entusiasta da aprendizagem contínua e aproveito oportunidades de capacitação, como cursos e certificações, para aprimorar minha expertise e oferecer resultados ainda melhores aos meus clientes e empregadores.
 
 ##
 
-<div style="display: inline_block"><br>
-# Languages
+<div style="display: inline_block">
+# Linguagens
   <br> <br>
   
 <img align="center" alt="Lazarus" height="40" width="40" src="https://wiki.freepascal.org/images/e/ec/Lazarus-icons-exe-proposal-bpsoftware.png">
   
 <img align="center" alt="Delphi" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png">
-  
+
+</div>
+
+  <div style="display: inline_block"><br>
+# Estudando
+  <br> <br>
+    
 <img align="center" alt="ADVPL" height="30" width="50" src="https://bluecast.com.br/wp-content/uploads/2021/11/Bluecast-IT-Outsourcing-ADVPL.jpg">
   
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -28,8 +31,8 @@ If you are looking for an experienced, committed and passionate Delphi developer
 
 ##
 
-<div style="display: inline_block"><br>
-# Speak  
+<div style="display: inline_block">
+# Idiomas  
   <br> <br>
   
 <img align="center" alt="Portugues" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Brazilian_Flag_-_round.svg/512px-Brazilian_Flag_-_round.svg.png">
