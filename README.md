@@ -1,5 +1,5 @@
 # Hello World! 👋
-Sou um desenvolvedor Delphi apaixonado pela criação de soluções inovadoras e eficientes há mais de dez anos. Tenho uma ampla experiência no desenvolvimento de sistemas comerciais, incluindo PDVs, sistemas de controle de estoque para obras, help desk e soluções internas personalizadas para atender às necessidades específicas das organizações.
+Sou um desenvolvedor Delphi apaixonado pela criação de soluções inovadoras e eficientes. Tenho experiência no desenvolvimento de sistemas comerciais, incluindo PDVs, sistemas de controle de estoque para obras, help desk e soluções internas personalizadas para atender às necessidades específicas das organizações.
 
 Com uma formação acadêmica em Contabilidade e atualmente cursando Análise e Desenvolvimento de Sistemas (ADS), tenho a capacidade única de combinar minha experiência técnica com uma compreensão aprofundada dos aspectos financeiros e comerciais dos projetos em que trabalho. Essa combinação de conhecimentos me permite desenvolver soluções que atendam tanto aos requisitos técnicos quanto aos objetivos de negócios.
 
