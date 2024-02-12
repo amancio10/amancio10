@@ -13,9 +13,9 @@ Além disso, estou sempre em busca de aprimorar minhas habilidades e me manter a
 # Linguagens
   <br> <br>
   
-<img align="center" alt="Lazarus" height="40" width="40" src="https://wiki.freepascal.org/images/e/ec/Lazarus-icons-exe-proposal-bpsoftware.png">
-  
 <img align="center" alt="Delphi" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png">
+
+<img align="center" alt="Lazarus" height="40" width="40" src="https://wiki.freepascal.org/images/e/ec/Lazarus-icons-exe-proposal-bpsoftware.png">
 
 </div>
 
@@ -25,7 +25,7 @@ Além disso, estou sempre em busca de aprimorar minhas habilidades e me manter a
     
 <img align="center" alt="C#" height="40" width="40" src="https://github.com/amancio10/amancio10/assets/48102777/5f45248b-defd-4312-904e-2f70421c4805">
   
-<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
 </div>
 
